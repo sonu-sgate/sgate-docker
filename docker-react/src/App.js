@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={{textAlign:"center",color:"red"}}>TO DO</h1>
-      <h3> Today What you will do your future</h3>
+      <h3> Today</h3>
       <button>Create+</button>
       <table style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
         <thead>
