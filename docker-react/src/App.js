@@ -10,7 +10,7 @@ function App() {
       <table style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
         <thead>
         <tr>
-          <td>Serial no.</td>
+          <td>Serino.</td>
           <td>Name</td>
           <td>Description</td>
           <td>Status</td>
